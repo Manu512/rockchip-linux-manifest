@@ -65,7 +65,7 @@
   <project path="u-boot" name="TinkerBoard/rockchip-linux-u-boot" />
   <project path="yocto/build/conf" name="TinkerBoard/rockchip-linux-build" />
   <project path="yocto/meta-asus" name="TinkerBoard/rockchip-linux-yocto-meta-asus-local" />
-  <project path="yocto/meta-sherpa" name="Manu512/meta-sherpa" />
+  <project path="yocto/meta-sherpa" name="Manu512/meta-sherpa" revision="main" />
   <project path="yocto/meta-browser" name="TinkerBoard/rockchip-linux-yocto-meta-browser" />
   <project path="yocto/meta-clang" name="TinkerBoard/rockchip-linux-yocto-meta-clang" />
   <project path="yocto/meta-openembedded" name="TinkerBoard/rockchip-linux-yocto-meta-openembedded" />
